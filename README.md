@@ -1,2 +1,2 @@
 # Gyn
-something test
+这是我的一个测试项目用来测试git的使用
