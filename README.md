@@ -1,2 +1,2 @@
-# Gyn
-这是我的一个测试项目用来测试git的使用
+# WordCount
+编写一个storm与jstorm的wordcount用例供测试使用
